@@ -13,7 +13,7 @@
 
 const static int NORMAL_STATE = 0;
 
-const static int NUMBER_OF_CELLS = 6;
+const static int NUMBER_OF_CELLS = 5;
 const static int MAX_NUMBER_OF_TEMPERATURES = 8;
 const static int NUMBER_OF_TEMPERATURES = 8;
 const static int NUMBER_OF_CS_SAMPLES = 100;
